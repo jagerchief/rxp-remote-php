@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: dani
- * Date: 16/05/18
- * Time: 13:06
- */
 
 namespace com\realexpayments\remote\sdk\utils;
 
